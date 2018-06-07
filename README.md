@@ -2,7 +2,7 @@
 In this project you are given a web-based application that reads RSS feeds. 
 
 # How to Run
-To run this project simply go https://github.com/Bintehassan/feed-reader-testing-udacity and clone the repo. Open the index.html in Chrome.
+To run this project simply go https://github.com/Bintehassan/feed-reader-testing-udacity and clone the repo. Open the index.html in Chrome. Or, click here  https://bintehassan.github.io/feed-reader-testing-udacity/.
 
 # Tests
 ## RSS Feeds:
